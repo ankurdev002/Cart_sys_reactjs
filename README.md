@@ -49,7 +49,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 install npm json-server
 
-now,
+###now, run command for json-server 
+
 json-server --port 3004 --watch db.json
 
 ### Code Splitting
